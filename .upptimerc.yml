@@ -11,8 +11,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.brandihan.com
   # baseUrl: /your-repo-name
-  theme: ocean
+  theme: dark
   logoUrl: https://brandihan.com/content/images/2023/02/brandihan-logo.png
+  favicon: https://brandihan.com/content/images/static/status_favicon.png
   name: Brandihan Status
   introTitle: "Welcome to **Brandihan Status**"
   introMessage: This is a status page for all network assets that are part of Brandihan.
