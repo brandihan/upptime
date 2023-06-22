@@ -4,19 +4,19 @@
     "url": "https://www.brandihan.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.brandihan.com.ico",
     "slug": "brandihan-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1732,
-    "timeDay": 8939,
-    "timeWeek": 2806,
-    "timeMonth": 1732,
-    "timeYear": 1732,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1675,
+    "timeDay": 6178,
+    "timeWeek": 2567,
+    "timeMonth": 1675,
+    "timeYear": 1675,
     "dailyMinutesDown": {
-      "2023-06-22": 0
+      "2023-06-22": 6
     }
   }
 ]
